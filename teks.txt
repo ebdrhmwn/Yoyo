@@ -1,0 +1,1 @@
+cloudstreamrepo://codeberg.org/cloudstream/cloudstream-extensions-hexated/raw/branch/builds/repo.json
